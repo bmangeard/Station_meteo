@@ -18,11 +18,14 @@
 		<Item Name="Fct_Acquisition_Temperature.vi" Type="VI" URL="../Fct_Acquisition_Temperature.vi"/>
 		<Item Name="Fct_Affichage_Data.vi" Type="VI" URL="../Fct_Affichage_Data.vi"/>
 		<Item Name="Fct_calcul_vitesse_vent.vi" Type="VI" URL="../Fct_calcul_vitesse_vent.vi"/>
-		<Item Name="Fct_Limite_Température.vi" Type="VI" URL="../Fct_Limite_Température.vi"/>
+		<Item Name="Fct_Direction_vent.vi" Type="VI" URL="../Fct_Direction_vent.vi"/>
+		<Item Name="Fct_Limite_Pluie.vi" Type="VI" URL="../Fct_Limite_Pluie.vi"/>
 		<Item Name="Fct_Limite_Température_v2.vi" Type="VI" URL="../Fct_Limite_Température_v2.vi"/>
+		<Item Name="Fct_Limite_Vent.vi" Type="VI" URL="../Fct_Limite_Vent.vi"/>
 		<Item Name="Fct_Preparation_Data_Enregistrement.vi" Type="VI" URL="../Fct_Preparation_Data_Enregistrement.vi"/>
 		<Item Name="Fct_Write_On_File.vi" Type="VI" URL="../Fct_Write_On_File.vi"/>
 		<Item Name="mainStationMeteo.vi" Type="VI" URL="../mainStationMeteo.vi"/>
+		<Item Name="mainStationMeteo_version_avec_cluster_non_testé.vi" Type="VI" URL="../mainStationMeteo_version_avec_cluster_non_testé.vi"/>
 		<Item Name="Température" Type="NI-DAQmx Channel">
 			<Property Name="AI.Max" Type="Str">4</Property>
 			<Property Name="AI.MeasType" Type="Str">Voltage</Property>
